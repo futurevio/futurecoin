@@ -1,4 +1,5 @@
-# futurecoin
+FutureCoin
+==========
 FutureCoin is a cryptocurrency invented by Futurevio
 
 
